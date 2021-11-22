@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T14:50:24.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="QB5DTa8yYXxJWVirl-9Q" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-22T03:49:03.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="tox6qOuPQwYY2XaaDsdM" version="15.0.6" type="github">
   <diagram id="P_jxAVAjLvWkZfzSN_cS" name="FinWorkflow">
-    <mxGraphModel dx="2525" dy="1175" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3400" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1946" dy="1996" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3400" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,13 +8,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-2" value="&lt;span&gt;1) Loose Fit Drivers Fins&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="228" y="183" width="194" height="80" as="geometry" />
+          <mxGeometry x="228" y="-906" width="194" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-5" target="bBNqoPSmZQOcNYR16BK6-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bBNqoPSmZQOcNYR16BK6-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-5" target="bBNqoPSmZQOcNYR16BK6-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-5" value="&lt;span&gt;2) SurveyLink Drive fins&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="502" y="183" width="191" height="80" as="geometry" />
+          <mxGeometry x="502" y="-368" width="191" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-7" target="bBNqoPSmZQOcNYR16BK6-10">
           <mxGeometry relative="1" as="geometry" />
@@ -22,105 +25,145 @@
         <mxCell id="bBNqoPSmZQOcNYR16BK6-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-7" target="bBNqoPSmZQOcNYR16BK6-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bBNqoPSmZQOcNYR16BK6-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-7" target="bBNqoPSmZQOcNYR16BK6-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="bBNqoPSmZQOcNYR16BK6-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-7" target="bBNqoPSmZQOcNYR16BK6-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1631" y="-328" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-7" value="&lt;span&gt;3) Scan Driver Fins&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="773" y="183" width="191" height="80" as="geometry" />
+          <mxGeometry x="773" y="-368" width="191" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-10" value="End of Day Activity" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="808.5" y="33" width="120" height="60" as="geometry" />
+          <mxGeometry x="808.5" y="-518" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-12" target="bBNqoPSmZQOcNYR16BK6-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-12" value="&lt;span&gt;3.1) QC Model+scan&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="773" y="367" width="191" height="80" as="geometry" />
+          <mxGeometry x="773" y="-184" width="191" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bBNqoPSmZQOcNYR16BK6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-14" target="bBNqoPSmZQOcNYR16BK6-16">
+        <mxCell id="bBNqoPSmZQOcNYR16BK6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-14" target="bBNqoPSmZQOcNYR16BK6-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-14" value="&lt;span&gt;3.2) Directive to adjust&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1044" y="367" width="191" height="80" as="geometry" />
+          <mxGeometry x="1044" y="-184" width="191" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bBNqoPSmZQOcNYR16BK6-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-16" target="bBNqoPSmZQOcNYR16BK6-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bBNqoPSmZQOcNYR16BK6-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-16" target="bBNqoPSmZQOcNYR16BK6-33">
+        <mxCell id="bBNqoPSmZQOcNYR16BK6-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-16" target="bBNqoPSmZQOcNYR16BK6-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-16" value="&lt;span&gt;3.3) Adjust Driver Fins&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;dashed=1;dashPattern=1 2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1044" y="183" width="191" height="80" as="geometry" />
+          <mxGeometry x="1328.5" y="-184" width="191" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-19" target="bBNqoPSmZQOcNYR16BK6-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-19" value="&lt;span&gt;4) Install Follower Fins&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="183" width="191" height="80" as="geometry" />
+          <mxGeometry x="1328.5" y="666" width="191" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-21" target="bBNqoPSmZQOcNYR16BK6-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bBNqoPSmZQOcNYR16BK6-21" value="&lt;span&gt;5) Scan section&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1586" y="183" width="191" height="80" as="geometry" />
+        <mxCell id="bBNqoPSmZQOcNYR16BK6-21" value="&lt;span&gt;5) Scan Installed section&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1586" y="666" width="191" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-23" value="End of week activity" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1621.5" y="33" width="120" height="60" as="geometry" />
+          <mxGeometry x="1621.5" y="516" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-25" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1846.41" y="488" as="sourcePoint" />
-            <mxPoint x="1846" y="62" as="targetPoint" />
+            <mxPoint x="1846" y="1054" as="sourcePoint" />
+            <mxPoint x="1845" y="-991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bBNqoPSmZQOcNYR16BK6-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-26" target="bBNqoPSmZQOcNYR16BK6-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bBNqoPSmZQOcNYR16BK6-26" value="&lt;span&gt;6) Install Gutter&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2203" y="183" width="191" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="bBNqoPSmZQOcNYR16BK6-30" value="&lt;span&gt;7) Install Skins&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2474" y="183" width="191" height="80" as="geometry" />
+        <mxCell id="bBNqoPSmZQOcNYR16BK6-30" value="&lt;span&gt;7) Install&amp;nbsp; Middle Skins&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="1188" width="191" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-32" value="Week split" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1803" width="80" height="46" as="geometry" />
+          <mxGeometry x="1803" y="-1061" width="80" height="46" as="geometry" />
         </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-33" value="As Needed" style="ellipse;whiteSpace=wrap;html=1;rounded=0;dashed=1;dashPattern=1 2;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="1079.5" y="33" width="120" height="60" as="geometry" />
+          <mxGeometry x="1364" y="-516" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="bBNqoPSmZQOcNYR16BK6-44">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1684.5" y="263" as="sourcePoint" />
+            <mxPoint x="1684.5" y="746" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bBNqoPSmZQOcNYR16BK6-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="bBNqoPSmZQOcNYR16BK6-48">
+        <mxCell id="bBNqoPSmZQOcNYR16BK6-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="bBNqoPSmZQOcNYR16BK6-56" source="bBNqoPSmZQOcNYR16BK6-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1779.9999999999995" y="223" as="sourcePoint" />
+            <mxPoint x="1824" y="706" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-44" target="bBNqoPSmZQOcNYR16BK6-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-44" value="&lt;span&gt;5.1) QC Model+scan&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1589" y="367" width="191" height="80" as="geometry" />
+          <mxGeometry x="1589" y="850" width="191" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bBNqoPSmZQOcNYR16BK6-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-46" target="bBNqoPSmZQOcNYR16BK6-48">
+        <mxCell id="bBNqoPSmZQOcNYR16BK6-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-46" target="bBNqoPSmZQOcNYR16BK6-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-46" value="&lt;span&gt;5.2) Directive to adjust&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="367" width="191" height="80" as="geometry" />
+          <mxGeometry x="1920" y="850" width="191" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bBNqoPSmZQOcNYR16BK6-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-48" target="bBNqoPSmZQOcNYR16BK6-49">
+        <mxCell id="bBNqoPSmZQOcNYR16BK6-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-48" target="bBNqoPSmZQOcNYR16BK6-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bBNqoPSmZQOcNYR16BK6-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-48" target="bBNqoPSmZQOcNYR16BK6-26">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="bBNqoPSmZQOcNYR16BK6-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-48" target="bBNqoPSmZQOcNYR16BK6-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2536" y="1169" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-48" value="&lt;span&gt;5.3) Adjust Follower Fins&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;dashed=1;dashPattern=1 2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="183" width="191" height="80" as="geometry" />
+          <mxGeometry x="2228" y="850" width="191" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bBNqoPSmZQOcNYR16BK6-49" value="As Needed" style="ellipse;whiteSpace=wrap;html=1;rounded=0;dashed=1;dashPattern=1 2;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="1955.5" y="33" width="120" height="60" as="geometry" />
+          <mxGeometry x="2263.5" y="513" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bBNqoPSmZQOcNYR16BK6-51" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="204" y="479" as="sourcePoint" />
+            <mxPoint x="3026" y="473" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bBNqoPSmZQOcNYR16BK6-52" value="&lt;span&gt;3.4) Continue Driver Fin&amp;nbsp;&lt;br&gt;Install&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1642" y="-368" width="191" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bBNqoPSmZQOcNYR16BK6-53" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214" y="1058" as="sourcePoint" />
+            <mxPoint x="3036" y="1051.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bBNqoPSmZQOcNYR16BK6-54" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214" y="-609" as="sourcePoint" />
+            <mxPoint x="3036" y="-615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bBNqoPSmZQOcNYR16BK6-56" value="&lt;span&gt;5.4) Install Follower Fins&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2528" y="666" width="191" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bBNqoPSmZQOcNYR16BK6-57" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="1306" as="sourcePoint" />
+            <mxPoint x="3042" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bBNqoPSmZQOcNYR16BK6-58" value="Continuous&lt;br&gt;Activity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="93" y="-633" width="80" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="bBNqoPSmZQOcNYR16BK6-59" value="Continuous&lt;br&gt;Activity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="103" y="450" width="80" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="bBNqoPSmZQOcNYR16BK6-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-16" target="bBNqoPSmZQOcNYR16BK6-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bBNqoPSmZQOcNYR16BK6-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="bBNqoPSmZQOcNYR16BK6-60" target="bBNqoPSmZQOcNYR16BK6-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bBNqoPSmZQOcNYR16BK6-60" value="&lt;span&gt;6) Install Gutter&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="502" y="147" width="191" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
